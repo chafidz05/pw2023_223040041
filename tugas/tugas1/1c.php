@@ -14,6 +14,8 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      margin-right: -5px;
+      margin-top: -5px;
     }
   </style>
 </head>
