@@ -19,7 +19,6 @@
 
   <table cellpadding="10" cellspacing="0">
     <?php 
-
       $angka = 1;
 
       for($i = 10; $i >= $angka; $i--) {
